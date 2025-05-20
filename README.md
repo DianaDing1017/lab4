@@ -135,4 +135,5 @@ Tuning window size and stride could help better capture gesture dynamics, especi
 
 ---
 
+## 10. Link to Access the DEMO VIDEO: https://drive.google.com/file/d/1tpyyebiIyXZeqE7kT5wJY5n7OY8KA5Z0/view?usp=sharing
 
