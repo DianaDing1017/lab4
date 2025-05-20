@@ -117,7 +117,13 @@ Prediction: V (86.21%)
 
 ---
 
-## 8. Discussion  
+## 8. Battery
+- Battery: LP603449
+- 3.7V
+
+---
+
+## 9. Discussion  
 
 To further improve the model’s performance and robustness, the following strategies are suggested:
 
